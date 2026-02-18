@@ -1,2 +1,4 @@
-# python_autoomation
-This Repository is the know how of Python Automation
+# Python Automation
+
+## Contributors to this repository
+1. Hardik Singh
