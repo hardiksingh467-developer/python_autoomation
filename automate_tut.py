@@ -15,7 +15,6 @@ variableName = 10
 print("variable Name is ", variableName)
 
 variableName = "Hardik"
-
 print("variableName is now", variableName)
 
 
